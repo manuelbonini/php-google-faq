@@ -26,3 +26,7 @@ header {
     margin: auto;
     padding-top: 50px;
 }
+
+.container h2 {
+    padding-bottom: 20px;
+}
