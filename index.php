@@ -90,7 +90,32 @@
 </head>
 <body>
     <header>
-        <div>
+        <div class="logo">
+            <div>
+                Google Privacy e Termini
+            </div>
+            <div>
+                M
+            </div>
+        </div>
+        <div class="nav">
+            <ul>
+                <li>
+                    Introduzione
+                </li>
+                <li>
+                    Norme sulla privacy
+                </li>
+                <li> 
+                    Termini di servizio
+                </li>
+                <li>
+                    Tecnologie
+                </li>
+                <li>
+                    Domande frequenti
+                </li>
+            </ul>
         </div>
     </header>
 
